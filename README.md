@@ -58,7 +58,7 @@ A list of not working features
 - int3rnetbxby: Main developer
 
 ## Financial contribution
-**If you like and want, consider <ins>donating</ins> for 5hook and help <ins>to maintain</ins> this project active and up to date.**<br>
+**If you like and want, consider <ins>[donating](https://5hook.cc/donation)</ins> for 5hook and help <ins>to maintain</ins> this project active and up to date.**<br>
 If you like the project, leave a star.
 
 ## License
