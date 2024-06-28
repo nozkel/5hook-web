@@ -4,7 +4,7 @@
 > [!NOTE]  
 > This website is a work in progress. I'm building this in public. You can follow the progress on [`5hook.cc/discord`](https://5hook.cc/discord)
 
-## Running locally
+## Usage
 1. Install dependencies using your preferred package manager:
 ```sh
 npm i
@@ -20,6 +20,14 @@ npm run dev
 
 > [!TIP]
 > A full documentation (including how to run your first development server) is available at [`5hook.cc/opensource`](https://5hook.cc/opensource)
+
+## Known Issues
+###### This list is in order of priority.
+A list of not working features
+
+- Empty for now
+
+###### If you have experiencing a issue, try making an [issue](https://github.com/int3rnetbxby/5hook-web/issues).<br>PS: We will help you with your own code, but that is not our responsibility.
 
 ## Features
 - Routing, Layouts, Nested Layouts and Layout Groups
@@ -43,15 +51,7 @@ npm run dev
 - [ ] PostgreSQL Database Support
 - [ ] Debugger
 - [ ] Website and Roblox Script linked via API (auth, user permissions, etc.)
-- [ ] **TRPC** Usage
-
-## Known Issues
-###### This list is in order of priority.
-A list of not working features
-
-- Empty for now
-
-###### If you have experiencing a issue, try making an [issue](https://github.com/int3rnetbxby/5hook-web/issues).<br>PS: We will help you with your own code, but that is not our responsibility.
+- [ ] **TRPC** Usag
 
 ## Contributors
 ###### To contribute in any way, contact us by [`5hook.cc/discord`](https://5hook.cc/discord)
