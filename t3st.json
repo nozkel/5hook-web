@@ -14,13 +14,13 @@
     },
     "apps": [
         {
-            "name": "Enmity_250.0",
-            "bundleIdentifier": "com.hammerandchisel.discord",
-            "developerName": "Enmity_250.0 x CyPwn",
+            "name": "Duolingo_250.0",
+            "bundleIdentifier": "com.duolingo.DuolingoMobile",
+            "developerName": "Duolingo_250.0 x CyPwn",
             "version": "250.0",
             "versionDate": "2024-11-02",
-            "downloadURL": "https:\/\/github.com\/enmity-mod\/tweak\/releases\/download\/v2.2.6\/Enmity.ipa",
-            "localizedDescription": "A mod for Discord's mobile apps.",
+            "downloadURL": "https:\/\/drive.usercontent.google.com\/download?id=1GXua1BJ-PE2EH2wEPWxqyADuUOZSuDfF&export=download&authuser=1&confirm=t&uuid=061d6b43-d0c0-4b31-977f-544cafbcac90&at=AENtkXb5lqPOfWvqsq-SFqBAI6rZ:1730666283152",
+            "localizedDescription": "A mod for Duolingo mobile apps.",
             "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Revenge_250.0.png",
             "tintColor": "FFC300",
             "size": 100663296,
